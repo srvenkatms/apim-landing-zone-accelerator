@@ -1,5 +1,5 @@
 AZURE_LOCATION: 'centralus'
-RESOURCE_NAME_PREFIX: 'apimdemo'
+RESOURCE_NAME_PREFIX: 'apimlzsv'
 ENVIRONMENT_TAG: 'dev'
 DEPLOYMENT_NAME: 'ase-demo-deployment'
 VM_USERNAME: 'agent'
