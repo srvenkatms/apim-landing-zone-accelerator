@@ -1,6 +1,6 @@
 AZURE_LOCATION: 'westus2'
 RESOURCE_NAME_PREFIX: 'apimdemo'
-ENVIRONMENT_TAG: 'dev'
+ENVIRONMENT_TAG: 'production'
 DEPLOYMENT_NAME: 'ase-demo-deployment'
 VM_USERNAME: 'agent'
 ACCOUNT_NAME: 'https://dev.azure.com/apimlz/'
